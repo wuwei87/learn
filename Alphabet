@@ -1,7 +1,7 @@
-#perfect	完美的
-#coarse		粗糙的
-#sometime 	某一时间
-#mend		修改,修补
+#perfect	完美的 	adj
+#coarse		粗糙的	adj
+#sometime 	某一时间	adv 
+#mend		修改,修补	v
 #fatal		致命的
 #frost		霜,冰冻
 #language	语言
@@ -241,3 +241,4 @@
 #parse 		分析	vt
 #script		脚本 	n
 #parameter	参数	n
+#Calendar	日历	n	
