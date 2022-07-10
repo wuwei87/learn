@@ -1,9 +1,9 @@
 #include<stdio.h>
 
-void main(){
-	int a ;
-	scanf("请输入 一个数 : %d",&a);
-
-
+int main(){
+	int a = 10;
+    printf("请输入一个数字:");
+	scanf("12345%d", &a );
 	printf("你输入的数 是: %d ",a+1);
+    return 0;
 }
