@@ -1,1 +1,0 @@
-/home/yu/git/learn/sunnet/build/CMakeFiles/sunnet.dir
